@@ -1,0 +1,18 @@
+[
+    {
+        "title": "Matematicas",
+        "description": "Funciones",
+        "weeks": "12",
+        "enroll_cost": "10544",
+        "minimum_skill": "12",
+        "bootcamp_id":"1"
+    },
+    {
+        "title": "biografia",
+        "description": "tabla",
+        "weeks": "11",
+        "enroll_cost": "1055",
+        "minimum_skill": "15",
+        "bootcamp_id":"4"
+    }
+]
